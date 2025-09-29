@@ -5,6 +5,8 @@ description: 'This Lecture Note contains: Linear Elasticity; Numerical Integrati
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/778ffaeac7fbe63d21dd6152082b0071_lecture__8.pdf
 file_size: 764784
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

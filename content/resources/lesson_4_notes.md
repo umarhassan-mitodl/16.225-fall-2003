@@ -6,6 +6,8 @@ description: 'This Lecture Note contains: Weighted - Residuals/Galerkin; Geometr
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/326b7bab714838edfd7658763d7e50b5_lesson_4_Notes.pdf
 file_size: 740761
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

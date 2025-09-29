@@ -5,6 +5,8 @@ description: 'This Lecture Note contains: Energy Conservation/Dissipation; Abstr
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/a8691e3ac91aea9d950e0a943c6c5494_lecture_21.pdf
 file_size: 514975
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

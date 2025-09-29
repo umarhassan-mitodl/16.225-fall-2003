@@ -5,6 +5,8 @@ description: 'This Lecture Note contains: Examples: Trapezoidal Rule; Newmark''s
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/8472c6644f8727da9ae1a21db278958e_lecture_22.pdf
 file_size: 851961
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

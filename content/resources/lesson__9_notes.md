@@ -5,6 +5,8 @@ description: 'This Lecture Note contains: Incompressible Elasticity; Hooke''s La
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/0b71963c3d0ac7f329cf352ec8419dd0_lesson__9_Notes.pdf
 file_size: 729476
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

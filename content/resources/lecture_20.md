@@ -6,6 +6,8 @@ description: 'This Lecture Note contains: Connection Between Newmark Algorithm a
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/0a7ffdf5265fedd8262b45fd5b26365b_lecture_20.pdf
 file_size: 538692
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

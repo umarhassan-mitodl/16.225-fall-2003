@@ -5,6 +5,8 @@ description: Nonlinear Algorithms; Small-strain Plasticity; Kuhn-Tucker Form; El
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/2f18e330834b4c85a39d646c4e7a83ae_Lecture_25.pdf
 file_size: 629539
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

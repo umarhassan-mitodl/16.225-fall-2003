@@ -6,6 +6,8 @@ description: 'This Lecture Note contains: Introduce B-matrix (Spatial); Isoparam
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/425650e25e4fc048ce23e2ef4af134f4_lesson_15.pdf
 file_size: 853935
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

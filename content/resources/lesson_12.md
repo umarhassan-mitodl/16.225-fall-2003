@@ -6,6 +6,8 @@ description: 'This Lecture Note contains: Finite Elasticity; Metric Changes; Sta
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/caf120ffcc9883274a9b6f922ded31b0_lesson_12.pdf
 file_size: 739692
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

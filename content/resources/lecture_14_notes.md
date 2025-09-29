@@ -5,6 +5,8 @@ description: 'This Lecture Note contains: Newton-Raphson Solution Procedure; Con
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/f08a92490431fe7345827a1f2c339ad4_lecture_14_notes.pdf
 file_size: 744212
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

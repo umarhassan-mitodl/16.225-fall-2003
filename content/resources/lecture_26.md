@@ -6,6 +6,8 @@ description: Time-stepping Algorithms for Constitutive Relations; Numerical Quad
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/5ca1fcf6ef8cf7e4d95aa9b59e7b6584_Lecture_26.pdf
 file_size: 695610
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

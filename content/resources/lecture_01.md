@@ -7,6 +7,8 @@ description: 'The Lecture Note contains: Elastic Solids; Legendre Transformation
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/b3a091d523d8013a3c12d4a630cb67c7_lecture_01.pdf
 file_size: 580282
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
