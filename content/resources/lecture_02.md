@@ -4,8 +4,6 @@ description: 'This Lecture Note contains: Vainberg Theorem; Apply to L.E.'
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/136afcbdb69f51abbd68ce37c19a16c8_lecture_02.pdf
 file_size: 339836
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

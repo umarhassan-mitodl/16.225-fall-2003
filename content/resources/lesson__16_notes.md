@@ -8,8 +8,6 @@ description: 'This Lecture Note contains: Material Formulation; Specific Materia
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/ec886bdb7416ed450692bcc171ee4aed_lesson__16_Notes.pdf
 file_size: 524572
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

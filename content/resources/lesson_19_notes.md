@@ -5,8 +5,6 @@ description: 'This Lecture Note contains: Trapezoidal Rule - Heat Conduction; Tr
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/6dd1ac8729acaba6ecf36bde176522a1_lesson_19_notes.pdf
 file_size: 236106
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

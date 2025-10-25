@@ -6,8 +6,6 @@ description: 'This Lecture Note contains: Constitutive Relations: Fourier Law of
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/4f2d5cb6c032b689b0abb4652a5672af_lesson_18.pdf
 file_size: 488490
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

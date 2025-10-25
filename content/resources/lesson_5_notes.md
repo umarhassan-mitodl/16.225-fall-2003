@@ -5,8 +5,6 @@ description: 'This Lecture Note contains: Sobolev Norms; Global Shape Function; 
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/1171fe3152691e995e25305f8a0938b3_lesson_5_notes.pdf
 file_size: 674992
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

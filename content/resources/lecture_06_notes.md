@@ -5,8 +5,6 @@ description: 'This Lecture Note contains: Higher Order Interpolation; Isoparamet
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/5da5d70247dc1a2712b7361c14bbc746_lecture_06_notes.pdf
 file_size: 590004
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

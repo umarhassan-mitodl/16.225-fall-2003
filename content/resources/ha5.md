@@ -4,8 +4,6 @@ description: ''
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/251dda0f83688d5ef0108732a0ef600e_ha5.pdf
 file_size: 35709
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

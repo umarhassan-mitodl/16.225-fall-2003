@@ -5,8 +5,6 @@ description: Stability Properties of Trapezoidal Rule; Eigenprojections; Choice 
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/ba358b7975d3a803a8049d5fb64f13f3_Lecture_24.pdf
 file_size: 1112326
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

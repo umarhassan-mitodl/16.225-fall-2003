@@ -5,8 +5,6 @@ description: 'This Lecture Note contains: Error Estimation, Convergence of Finit
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/99ad29de2dc64a0f30efdbc7c463eba3_lecture_07_Notes.pdf
 file_size: 171827
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -33,7 +33,6 @@
     "website": "16-225-computational-mechanics-of-materials-fall-2003"
   },
   "course_title": "Computational Mechanics of Materials",
-  "hide_download": true,
   "course_description": "16.225 is a graduate level course on Computational Mechanics of Materials. The primary focus of this course is on the teaching of state-of-the-art numerical methods for the analysis of the nonlinear continuum response of materials. The range of material behavior considered in this course includes: linear and finite deformation elasticity, inelasticity and dynamics. Numerical formulation and algorithms include: variational formulation and variational constitutive updates, finite element discretization, error estimation, constrained problems, time integration algorithms and convergence analysis. There is a strong emphasis on the (parallel) computer implementation of algorithms in programming assignments. The application to real engineering applications and problems in engineering science is stressed throughout the course.\n",
   "department_numbers": [
     "16"
@@ -44,7 +43,6 @@
     "content": "48d8455e-8ed0-fea6-7b4c-294511448f48",
     "website": "16-225-computational-mechanics-of-materials-fall-2003"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

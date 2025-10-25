@@ -5,8 +5,6 @@ description: 'This Lecture Note contains: Specialized (Simplified) Variational P
 file: /courses/16-225-computational-mechanics-of-materials-fall-2003/00f1b210c794d0bb6a6767b7ca41c409_lesson_3_Notes.pdf
 file_size: 520689
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
